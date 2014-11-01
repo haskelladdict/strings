@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+strings
 
 # Folders
 _obj
